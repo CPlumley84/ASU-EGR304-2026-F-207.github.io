@@ -17,9 +17,8 @@ Dr. Kevin Nichols<br>
 </center>
 
 ## Team Introduction
-> This will be updated as part of the preparation for the External Review.<br>
->    * This needs to be updated to reflect a team introduction.<br>
->    * Content should also help an unfamiliar reader navigate to areas of interest.
+> Team 207, we design and create products that improve every day life. <br>
+>    * Robotics, widgets, and fun gadgets for all.<br>
 
 
 ## Team Members Datasheet links
