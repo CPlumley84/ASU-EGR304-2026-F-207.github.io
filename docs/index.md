@@ -26,6 +26,6 @@ Dr. Kevin Nichols<br>
 | **Team Member**        |**Ind Datasheet Links** |
 | ---------------------- | -----------------------|
 | Christopher Plumley    | [CPlumley84.GitHub](https://github.com/CPlumley84/CPlumley84_EGR304_F26.github.io) |
-| Name #2                | link |
-| Name #3                | link |
-| Name #4                | link |
+| Aziyah Casellanoz      | [AziyahC](https://github.com/AziyahC) |
+| Dahryl Willliams       | [dahwil06-svg](https://github.com/dahwil06-svg) |
+
